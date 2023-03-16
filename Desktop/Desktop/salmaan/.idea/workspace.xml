@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e30231c4-bc6c-41d1-bd2c-a895deaa5399" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f8d6d393-56bb-4dfd-bd7c-a2e671c56d74.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f8d6d393-56bb-4dfd-bd7c-a2e671c56d74.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/database.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/salmaan/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/controllers/CustomerInfoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/controllers/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/controllers/PaymentPendingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/controllers/PaymentsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/controllers/RegistrationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/controllers/SearchController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/dao/GymService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/dao/UsersService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/dao/main/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/dao/main/PaymentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/entities/main/Customers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/entities/main/Payments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/entities/services/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/entities/services/Gym.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/entities/services/Users.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/helpers/CommonClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/helpers/CustomException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/helpers/DbConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/models/DailyReportDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/models/GymModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/models/UserModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/models/main/CustomerModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/models/main/PaymentModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/repository/CustomerRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/salmaan/repository/UserRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/style/icons/css/long-pane-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/style/icons/css/small-size-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/style/icons/icons/360_F_470299797_UD0eoVMMSUbHCcNJCdv2t8B2g1GVqYgs.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/style/icons/icons/535-5355451_payment-success-illustration-png-transparent-png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/style/icons/icons/bike.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/style/icons/icons/experimental-loading-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/style/icons/icons/form_img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/style/icons/icons/icons8-account-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/style/icons/icons/icons8-barbell-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/style/icons/icons/icons8-close-30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/style/icons/icons/icons8-close-window-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/style/icons/icons/icons8-forgot-password-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/style/icons/icons/loading_5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/style/icons/icons/png-transparent-online-payment-illustration.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/style/icons/icons/sign-up-concept-illustration_114360-7965.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/style/icons/icons/undraw_Dashboard_re_3b76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/style/icons/icons/undraw_Healthy_habit_re_duor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/style/icons/icons/undraw_Make_it_rain_re_w9pc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/style/icons/icons/undraw_Plain_credit_card_re_c07w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/style/icons/icons/undraw_Success_factors_re_ce93.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/views/customer-info.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/views/login.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/views/payments.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/views/pending-confirm.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/views/registrations.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/salmaan/views/search.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/example/salmaan/controllers/PaymentPendingControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/example/salmaan/dao/CustomerServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/example/salmaan/dao/GymServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/example/salmaan/dao/UsersServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/example/salmaan/models/CustomerModelTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/example/salmaan/models/GymModelTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/salmaan/models/PaymentModel.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MJfzIwsFJmsQRlb45afHu8W3h5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mrd/Desktop/Desktop/salmaan/src/main/java/com/example/salmaan/entity/service&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.JavaFX&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/salmaan/entity/service" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/salmaan/dao" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/salmaan/models" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/salmaan/helpers" />
+      <recent name="$PROJECT_DIR$/src/main/resources/com/example/salmaan/views" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/com/example/salmaan/style/icons/icons" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.salmaan.dao" />
+      <recent name="com.example.salmaan.dao.main" />
+      <recent name="com.example.salmaan.controllers" />
+      <recent name="com.example.salmaan.models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BoxServiceTest.updateBox">
+    <configuration name="BoxServiceTest.fetchBoxes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="salmaan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.salmaan.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.salmaan.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.example.salmaan.dao.BoxServiceTest" />
+      <option name="METHOD_NAME" value="fetchBoxes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoxServiceTest.findBoxIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="salmaan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.salmaan.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.salmaan.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.example.salmaan.dao.BoxServiceTest" />
+      <option name="METHOD_NAME" value="findBoxIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoxServiceTest.insertBox" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="salmaan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.salmaan.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.salmaan.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.example.salmaan.dao.BoxServiceTest" />
+      <option name="METHOD_NAME" value="insertBox" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoxServiceTest.updateBox" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="salmaan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.salmaan.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.salmaan.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.example.salmaan.dao.BoxServiceTest" />
+      <option name="METHOD_NAME" value="updateBox" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerServiceTest.fetchOfflineCustomer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="salmaan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.salmaan.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.salmaan.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.example.salmaan.dao.CustomerServiceTest" />
+      <option name="METHOD_NAME" value="fetchOfflineCustomer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BoxServiceTest.updateBox" />
+        <item itemvalue="JUnit.BoxServiceTest.insertBox" />
+        <item itemvalue="JUnit.BoxServiceTest.findBoxIndex" />
+        <item itemvalue="JUnit.BoxServiceTest.fetchBoxes" />
+        <item itemvalue="JUnit.CustomerServiceTest.fetchOfflineCustomer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e30231c4-bc6c-41d1-bd2c-a895deaa5399" name="Changes" comment="" />
+      <created>1677490868972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677490868972</updated>
+      <workItem from="1677490870785" duration="116000" />
+      <workItem from="1677491107651" duration="140000" />
+      <workItem from="1677491268287" duration="101000" />
+      <workItem from="1677491391751" duration="423000" />
+      <workItem from="1677491876479" duration="126000" />
+      <workItem from="1677494985388" duration="1172000" />
+      <workItem from="1677496528097" duration="325000" />
+      <workItem from="1677515117757" duration="8350000" />
+      <workItem from="1677570468598" duration="897000" />
+      <workItem from="1677579640065" duration="5922000" />
+      <workItem from="1677610600111" duration="6760000" />
+      <workItem from="1677644519033" duration="1795000" />
+      <workItem from="1677647950339" duration="2668000" />
+      <workItem from="1677652537173" duration="6410000" />
+      <workItem from="1677660300996" duration="2271000" />
+      <workItem from="1677676294233" duration="2565000" />
+      <workItem from="1677698524814" duration="1769000" />
+      <workItem from="1677731488507" duration="1301000" />
+      <workItem from="1677740265929" duration="4002000" />
+      <workItem from="1677753625496" duration="1064000" />
+      <workItem from="1677833358079" duration="220000" />
+      <workItem from="1677847578501" duration="4668000" />
+      <workItem from="1677863535691" duration="7549000" />
+      <workItem from="1677906114212" duration="1950000" />
+      <workItem from="1677910755266" duration="1560000" />
+      <workItem from="1677912502616" duration="25000" />
+      <workItem from="1677914371474" duration="3753000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
