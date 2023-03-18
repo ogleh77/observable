@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Pagination?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="490.0" prefWidth="718.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.observalble.GridController">
+    <children>
+        <Button layoutX="337.0" layoutY="453.0" mnemonicParsing="false" onAction="#viewHandler" text="View" />
+      <Pagination fx:id="pagination" layoutX="14.0" layoutY="14.0" prefHeight="431.0" prefWidth="693.0" />
+    </children>
+</AnchorPane>
