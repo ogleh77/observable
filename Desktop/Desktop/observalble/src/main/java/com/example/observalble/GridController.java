@@ -7,10 +7,8 @@ import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
-import javafx.geometry.HPos;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
-import javafx.geometry.VPos;
 import javafx.scene.control.Label;
 import javafx.scene.control.Pagination;
 import javafx.scene.layout.GridPane;
@@ -49,7 +47,7 @@ public class GridController implements Initializable {
 
 
     private GridPane createPage(int index) {
-
+        column = 0;
         int fromPage = perPage * index;
         int toIndex = Math.min(fromPage + perPage, students.size());
 
