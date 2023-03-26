@@ -5,6 +5,8 @@ module com.example.observalble {
     requires java.sql;
 
     opens com.example.observalble to javafx.fxml;
-    exports com.example.observalble;
+    opens com.example.observalble.controllers to javafx.fxml;
     exports com.example.observalble.data;
+    exports com.example.observalble;
+
 }
